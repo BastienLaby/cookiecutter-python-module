@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from {{ cookiecutter.project_name }}.{{ cookiecutter.project_name }} import main_func
+from {{cookiecutter.project_name}}.{{cookiecutter.project_name}} import main_func
 
 
 class MyTest(TestCase):

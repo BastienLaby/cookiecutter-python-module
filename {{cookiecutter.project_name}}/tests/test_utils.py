@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from {{ cookiecutter.project_name }}.utils import show_message
+from {{cookiecutter.project_name}}.utils import show_message
 
 
 class TestUtils(TestCase):
